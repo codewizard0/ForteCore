@@ -1,0 +1,7 @@
+{
+  provider: CURSE,
+  id: json-loot-bags,
+  projectID: 236978,
+  fileID: 2519445,
+  name: "Json Loot Bags"
+}

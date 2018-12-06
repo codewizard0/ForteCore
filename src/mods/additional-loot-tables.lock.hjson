@@ -1,0 +1,7 @@
+{
+  provider: CURSE,
+  id: additional-loot-tables,
+  projectID: 243157,
+  fileID: 2604702,
+  name: "Additional Loot Tables"
+}

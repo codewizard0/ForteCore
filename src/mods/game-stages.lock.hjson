@@ -1,0 +1,7 @@
+{
+  provider: CURSE,
+  id: game-stages,
+  projectID: 268655,
+  fileID: 2643995,
+  name: "Game Stages"
+}

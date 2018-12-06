@@ -1,0 +1,8 @@
+printDefaultConfigs(false)
+printDocumentation(false)
+removeVanillaAdvancements(false)
+removeModAdvancements(false)
+keepAdvancements([""])
+removeAdvancements([""])
+allowDragging(true)
+useNewParentCompletionCriteriaNames()

@@ -1,0 +1,7 @@
+{
+  provider: CURSE,
+  id: extended-crafting,
+  projectID: 268387,
+  fileID: 2622687,
+  name: "Extended Crafting"
+}

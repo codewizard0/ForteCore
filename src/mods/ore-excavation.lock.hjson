@@ -1,0 +1,7 @@
+{
+  provider: CURSE,
+  id: ore-excavation,
+  projectID: 250898,
+  fileID: 2641164,
+  name: "Ore Excavation"
+}

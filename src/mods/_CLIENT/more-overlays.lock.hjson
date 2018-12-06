@@ -1,0 +1,8 @@
+{
+  provider: CURSE,
+  id: more-overlays,
+  side: CLIENT,
+  projectID: 243478,
+  fileID: 2589773,
+  name: "More Overlays"
+}

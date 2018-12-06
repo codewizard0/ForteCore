@@ -1,0 +1,8 @@
+{
+  provider: CURSE,
+  id: morpheus,
+  side: SERVER,
+  projectID: 69118,
+  fileID: 2432272,
+  name: Morpheus
+}

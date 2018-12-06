@@ -1,0 +1,7 @@
+{
+  provider: CURSE,
+  id: itemphysic,
+  projectID: 258587,
+  fileID: 2629136,
+  name: "ItemPhysic Full"
+}
