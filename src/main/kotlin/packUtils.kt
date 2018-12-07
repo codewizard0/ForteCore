@@ -8,6 +8,8 @@ fun CurseListBuilder<CurseProvider>.addPackUtils() {
     +Mod.laggoggles
     +Mod.defaultOptions
 
+    //+Mod.villagerTradeTables
+
     addAdvancements()
     addTweaker()
     addCrafting()
@@ -44,10 +46,14 @@ fun CurseListBuilder<CurseProvider>.addTweaker() {
 
 fun CurseListBuilder<CurseProvider>.addCrafting() {
     +Mod.extendedCrafting
-    //+Mod.moreplates
+    +Mod.moreplates
     //+Mod.researchTable
     //+Mod.modularMachinery
     //+Mod.modularDiversity
+    //+Mod.avaritia110
+    //+Mod.avaritiaddons
+    //+Mod.biggerCraftingTables
+    //+Mod.artisanWorktables
 }
 
 fun CurseListBuilder<CurseProvider>.addStages() {

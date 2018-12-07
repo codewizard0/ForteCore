@@ -6,16 +6,7 @@ fun CurseListBuilder<CurseProvider>.addGeneral() {
     addUtils()
     addLibs()
     //addSemiTech()
-    addTools()
-
-    //+Mod.corailTombstone
-    //+Mod.enchantingPlus
-    +Mod.engineersWorkshopReborn
-    +Mod.extraUtilities
-    //+Mod.inspirations
-    +Mod.openblocks
-    //+Mod.quark
-    +Mod.translocators18
+    //addTools()
 }
 
 fun CurseListBuilder<CurseProvider>.addSemiTech() {
@@ -26,12 +17,19 @@ fun CurseListBuilder<CurseProvider>.addSemiTech() {
 }
 
 fun CurseListBuilder<CurseProvider>.addTools() {
+    +Mod.akashicTome
     //+Mod.buildingGadgets
     +Mod.betterBuildersWands
+    //+Mod.corailTombstone
+    //+Mod.enchantingPlus
+    +Mod.engineersWorkshopReborn
+    +Mod.extraUtilities
+    //+Mod.inspirations
     //+Mod.meecreeps
-
-    +Mod.akashicTome
     +Mod.morphOTool
+    +Mod.openblocks
+    //+Mod.quark
+    +Mod.translocators18
 }
 
 fun CurseListBuilder<CurseProvider>.addUtils() {

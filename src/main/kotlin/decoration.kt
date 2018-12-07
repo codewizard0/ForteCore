@@ -3,12 +3,12 @@ import voodoo.provider.CurseProvider
 
 fun CurseListBuilder<CurseProvider>.addDecoration() {
     +Mod.chisel
-    +Mod.traverse
+    //+Mod.traverse
 
-    +Mod.dynamictrees
-    +Mod.dynamicTreesTraverseCompat
+    //+Mod.dynamictrees
+    //+Mod.dynamicTreesTraverseCompat
 
-    +Mod.betterFoliage
+    //+Mod.betterFoliage
 
     +Mod.chiselsBits
     +Mod.extraBitManipulation

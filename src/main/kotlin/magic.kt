@@ -25,6 +25,8 @@ fun CurseListBuilder<CurseProvider>.addBotania() {
 fun CurseListBuilder<CurseProvider>.addEmbers() {
     +Mod.embersRekindled
     +Mod.soot
+    //+Mod.emberrootZoo
+    //+Mod.roots
 }
 
 fun CurseListBuilder<CurseProvider>.addThaumcraft() {

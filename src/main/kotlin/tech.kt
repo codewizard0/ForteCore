@@ -49,6 +49,7 @@ fun CurseListBuilder<CurseProvider>.addThermal() {
 
 fun CurseListBuilder<CurseProvider>.addEnderIo() {
     +Mod.enderIo
+    //+Mod.enderZoo
 }
 
 fun CurseListBuilder<CurseProvider>.addRfTools() {

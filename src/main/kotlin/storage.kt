@@ -33,6 +33,7 @@ fun CurseListBuilder<CurseProvider>.addAppliedEnergistics() {
     +Mod.ae2Stuff
     +Mod.wirelessCraftingTerminal
     +Mod.spatialcompat
+    +Mod.packagedAuto
 }
 
 fun CurseListBuilder<CurseProvider>.addRefinedStorage() {

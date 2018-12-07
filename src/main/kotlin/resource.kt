@@ -9,6 +9,8 @@ fun CurseListBuilder<CurseProvider>.addResource() {
     +Mod.enderCrop
     +Mod.karatGarden
 
+    //+Mod.waterStrainer
+
     //addAgricraft()
     addBees()
     //addMysticalAgriculture()
