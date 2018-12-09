@@ -1,0 +1,19 @@
+{
+    id: fortecore,
+    mcVersion: 1.12.2,
+    title: "Liquid Forte Modpack",
+    version: 0.0.0-SNAPSHOT,
+    authors: [
+        eric
+    ],
+    forge: 2796,
+    userFiles: {
+        include: [
+            
+        ],
+        exclude: [
+            
+        ]
+    },
+    sourceDir: .minecraft
+}

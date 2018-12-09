@@ -3,7 +3,7 @@ Title | Liquid Forte Modpack
 ID | `fortecore`
 Pack Version | `0.0.0-SNAPSHOT`
 MC Version | `1.12.2`
-Forge Version | `14.23.5.2795`
+Forge Version | `14.23.5.2796`
 Author | `eric`
 Icon | <img src="icon.png" alt="icon" style="max-height: 128px;"/>
 
@@ -21,13 +21,6 @@ Provider | `CURSE`
 Version | `Additional Loot Tables 2.0.3.42`
 Release Type | `RELEASE`
 Author | `dshadowwolf, jriwanek`
-
-Mod | Akashic Tome
----|---
-Provider | `CURSE`
-Version | `AkashicTome-1.2-11.jar`
-Release Type | `RELEASE`
-Author | `Vazkii`
 
 Mod | AppleSkin
 ---|---
@@ -57,13 +50,6 @@ Version | `AttributeFix-1.12.2-1.0.7.jar`
 Release Type | `ALPHA`
 Author | `Darkhax`
 
-Mod | AutoRegLib
----|---
-Provider | `CURSE`
-Version | `AutoRegLib-1.3-21.jar`
-Release Type | `RELEASE`
-Author | `Vazkii`
-
 Mod | B.A.S.E
 ---|---
 Provider | `CURSE`
@@ -77,13 +63,6 @@ Provider | `CURSE`
 Version | `BetterAdvancements-1.12.2-0.0.14.68`
 Release Type | `ALPHA`
 Author | `Way2muchnoise`
-
-Mod | Better Builder's Wands
----|---
-Provider | `CURSE`
-Version | `Better Builder's Wands 0.12.0 [MC1.12; rev 251]`
-Release Type | `BETA`
-Author | `Portablejim`
 
 Mod | BetterFps
 ---|---
@@ -232,13 +211,6 @@ Version | `Ender Storage 1.12.2-2.4.5.135-universal`
 Release Type | `RELEASE`
 Author | `chicken_bones, covers1624`
 
-Mod | Engineers Workshop Reborn
----|---
-Provider | `CURSE`
-Version | `EngineersWorkshopReborn-1.12.2-1.0.9.40.jar`
-Release Type | `RELEASE`
-Author | `modmuss50`
-
 Mod | Extended Crafting
 ---|---
 Provider | `CURSE`
@@ -253,13 +225,6 @@ Version | `externaltweaker-1.12-0.3.jar`
 Release Type | `BETA`
 Author | `Bartz24`
 
-Mod | Extra Utilities
----|---
-Provider | `CURSE`
-Version | `Extra Utilities 2 - 1.12 - 1.9.8`
-Release Type | `RELEASE`
-Author | `RWTema`
-
 Mod | Fence Jumper
 ---|---
 Provider | `CURSE`
@@ -267,24 +232,17 @@ Version | `fencejumper-1.12-1.0.5.jar`
 Release Type | `RELEASE`
 Author | `TheRealp455w0rd`
 
-Mod | Forge MultiPart CBE
----|---
-Provider | `CURSE`
-Version | `ForgeMultipart 1.12.2-2.6.0.79-universal`
-Release Type | `RELEASE`
-Author | `covers1624, Mr_TJP`
-
 Mod | FTB Utilities
 ---|---
 Provider | `CURSE`
-Version | `FTBUtilities-5.3.0.66.jar`
+Version | `FTBUtilities-5.3.0.67.jar`
 Release Type | `RELEASE`
 Author | `FTB, LatvianModder`
 
 Mod | FTBLib
 ---|---
 Provider | `CURSE`
-Version | `FTBLib-5.4.0.69.jar`
+Version | `FTBLib-5.4.0.70.jar`
 Release Type | `RELEASE`
 Author | `FTB, jaredlll08, LatvianModder`
 
@@ -294,6 +252,13 @@ Provider | `CURSE`
 Version | `GameStages-1.12.2-2.0.111.jar`
 Release Type | `ALPHA`
 Author | `Darkhax`
+
+Mod | Hwyla
+---|---
+Provider | `CURSE`
+Version | `Hwyla-1.8.26-B41_1.12.2.jar`
+Release Type | `RELEASE`
+Author | `TehNut`
 
 Mod | In Control!
 ---|---
@@ -312,7 +277,7 @@ Author | `jaredlll08`
 Mod | Inventory Tweaks
 ---|---
 Provider | `CURSE`
-Version | `Inventory Tweaks 1.64+dev.126`
+Version | `Inventory Tweaks 1.64+dev.132`
 Release Type | `ALPHA`
 Author | `Kobata`
 
@@ -368,7 +333,7 @@ Author | `Claycorp, DoubleDoorDevelopment, dries007`
 Mod | Just Enough Items (JEI)
 ---|---
 Provider | `CURSE`
-Version | `jei_1.12.2-4.14.0.231.jar`
+Version | `jei_1.12.2-4.14.1.235.jar`
 Release Type | `BETA`
 Author | `mezz`
 
@@ -428,13 +393,6 @@ Version | `moreoverlays-1.14-mc1.12.2.jar`
 Release Type | `RELEASE`
 Author | `feldim2425`
 
-Mod | Morph-o-Tool
----|---
-Provider | `CURSE`
-Version | `Morph-o-Tool-1.2-17.jar`
-Release Type | `RELEASE`
-Author | `Vazkii`
-
 Mod | Morpheus
 ---|---
 Provider | `CURSE`
@@ -476,20 +434,6 @@ Provider | `CURSE`
 Version | `noRecipeBook_v1.2.2formc1.12.2.jar`
 Release Type | `RELEASE`
 Author | `Seneschal_Luwin`
-
-Mod | OpenBlocks
----|---
-Provider | `CURSE`
-Version | `OpenBlocks-1.12.2-1.8.jar`
-Release Type | `RELEASE`
-Author | `OpenMods, other_boq`
-
-Mod | OpenModsLib
----|---
-Provider | `CURSE`
-Version | `OpenModsLib-1.12.2-0.12.1.jar`
-Release Type | `RELEASE`
-Author | `OpenMods, other_boq`
 
 Mod | Ore Excavation
 ---|---
@@ -543,7 +487,7 @@ Author | `lumien231`
 Mod | Reborn Core
 ---|---
 Provider | `CURSE`
-Version | `RebornCore-1.12.2-3.10.6.355-universal.jar`
+Version | `RebornCore-1.12.2-3.11.0.373-universal.jar`
 Release Type | `RELEASE`
 Author | `Gigabit1011, modmuss50, ProfessorProspector`
 
@@ -602,13 +546,6 @@ Provider | `CURSE`
 Version | `togetherforever-1.12.2-1.0.11-20.jar`
 Release Type | `RELEASE`
 Author | `Buuz135`
-
-Mod | Translocators 1.8.+
----|---
-Provider | `CURSE`
-Version | `Translocators 1.12.2-2.5.1.77-universal`
-Release Type | `RELEASE`
-Author | `covers1624`
 
 Mod | Triumph
 ---|---

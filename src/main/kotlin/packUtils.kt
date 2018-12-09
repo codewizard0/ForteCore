@@ -46,7 +46,7 @@ fun CurseListBuilder<CurseProvider>.addTweaker() {
 
 fun CurseListBuilder<CurseProvider>.addCrafting() {
     +Mod.extendedCrafting
-    +Mod.moreplates
+    //+Mod.moreplates
     //+Mod.researchTable
     //+Mod.modularMachinery
     //+Mod.modularDiversity

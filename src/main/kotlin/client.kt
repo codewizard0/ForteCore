@@ -6,6 +6,7 @@ fun CurseListBuilder<CurseProvider>.addClient() {
     group {
         side = Side.CLIENT
     }.list {
+        //+Mod.antighost
         +Mod.appleskin
         +Mod.aromabackup
         +Mod.betterAdvancements
@@ -30,5 +31,6 @@ fun CurseListBuilder<CurseProvider>.addClient() {
         //+Mod.toastControl
         //+Mod.wailaHarvestability
         +Mod.wawlaWhatAreWeLookingAt
+        +Mod.hwyla
     }
 }

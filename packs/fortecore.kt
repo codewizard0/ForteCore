@@ -21,7 +21,7 @@ fun ModpackBuilder.buildPack() {
     authors = listOf("eric")
     version = "0.0.0-SNAPSHOT"
     forge = Forge.mc1_12_2_latest
-    sourceDir = "src"
+    sourceDir = ".minecraft"
     localDir = "local"
     userFiles = UserFiles(
             include = listOf(""),

@@ -39,7 +39,6 @@ fun CurseListBuilder<CurseProvider>.addUtils() {
 
     +Mod.ftbUtilities
     //+Mod.inGameWikiMod
-    //+Mod.antighost
     +Mod.jei
 }
 
